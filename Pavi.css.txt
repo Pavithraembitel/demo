@@ -1,3 +1,8 @@
 .Pavi {
+	color: #fff;
+	padding: 2rem;
+}
 
+.Sun {
+	border: 1px soild #ccc;
 }
